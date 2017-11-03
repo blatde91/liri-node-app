@@ -1,0 +1,27 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "Class Homework",
+  "main": "keys.js",
+  "dependencies": {
+  	"fs": "0.0.2",
+    "request": "^2.83.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1",
+    "node-spotify-api": "^1.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blatde91/liri-node-app.git"
+  },
+  "author": "Daniel Blat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blatde91/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/blatde91/liri-node-app#readme"
+}
